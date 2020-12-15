@@ -14,7 +14,7 @@ Je suis un __développeur front__ et un passionné de __DIY__. J'aime découvrir
 ## Mes Compétences
 
 <p align="center">
-  <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
+  <img align="center" alt="Skills" src="https://github.com/Bdecanter/Bdecanter/blob/main/Skillz.png" />
 </p>
 <!--
 ## My last 3 DEV articles
