@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <a href="http://benoit.myutopie.fr/">Website</a> •
+  <a href="https://benoit.myutopie.fr/">Website</a> •
   <a href="https://www.linkedin.com/in/bdecanter/">Linkedin</a>
 </p>
 
