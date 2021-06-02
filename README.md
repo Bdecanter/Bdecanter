@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/bdecanter/">Linkedin</a>
 </p>
 
-Je suis un __développeur front__ et un passionné de __DIY__. J'aime découvrir de nouveaux languages & frameworks, et je suis un dingue d'automatisation:godmode::goberserk:
+Je suis un __Dev FullStack__ et un passionné de __DIY__. J'aime découvrir de nouveaux languages & frameworks, et je suis un dingue d'automatisation:godmode::goberserk:
 
 * 💼 À la recherche d'opportunités, @remote friendly 😄 <br/>
 * 🔖 Découvrez mon [Curriculum Vitae](https://benoit.myutopie.fr/cv.pdf)<br/>
